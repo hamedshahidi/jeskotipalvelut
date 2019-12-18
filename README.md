@@ -14,7 +14,13 @@ Structure design and development of Accounting and management system for JES Kot
 - Reservation management
 - Profit calculation
 
+![alt text][mgmt.sys.01]
+
 For more information please visit: <br>
 www.jeskotipalvelut.fi <br>
 09 42454476
+
+
+
+[mgmt.sys.01]: https://raw.githubusercontent.com/hamedshahidi/jeskotipalvelut/master/JES_database_phone_reservation.jpg "Signing in"
 
