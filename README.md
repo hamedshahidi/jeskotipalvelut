@@ -22,5 +22,5 @@ www.jeskotipalvelut.fi <br>
 
 
 
-[mgmt.sys.01]: https://raw.githubusercontent.com/hamedshahidi/jeskotipalvelut/master/JES_database_phone_reservation.jpg "Signing in"
+[mgmt.sys.01]: https://raw.githubusercontent.com/hamedshahidi/jeskotipalvelut/master/JES_database_phone_reservation.jpg "Enterprise Management System Structure"
 
